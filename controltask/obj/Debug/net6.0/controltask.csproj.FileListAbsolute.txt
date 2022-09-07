@@ -1,0 +1,15 @@
+C:\GeekBrains\блок1\ControlTask1\controltask\bin\Debug\net6.0\controltask.exe
+C:\GeekBrains\блок1\ControlTask1\controltask\bin\Debug\net6.0\controltask.deps.json
+C:\GeekBrains\блок1\ControlTask1\controltask\bin\Debug\net6.0\controltask.runtimeconfig.json
+C:\GeekBrains\блок1\ControlTask1\controltask\bin\Debug\net6.0\controltask.dll
+C:\GeekBrains\блок1\ControlTask1\controltask\bin\Debug\net6.0\controltask.pdb
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.csproj.AssemblyReference.cache
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.AssemblyInfoInputs.cache
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.AssemblyInfo.cs
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.csproj.CoreCompileInputs.cache
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.dll
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\refint\controltask.dll
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.pdb
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\controltask.genruntimeconfig.cache
+C:\GeekBrains\блок1\ControlTask1\controltask\obj\Debug\net6.0\ref\controltask.dll
